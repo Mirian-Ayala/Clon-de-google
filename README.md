@@ -2,7 +2,7 @@
 ## 🌸 Clon de google realizado con HTML5 y CSS3 en el bootcamp de Tecnolochicas 🌸
 ### ⭐ Intro
 #### 👉 Objetivo del proyecto
-##### Crear una copia de la página principal de google, con la intencion de poner en práctica los lenguajes de programación web.
+##### Crear una copia de la página principal de google, con la intención de poner en práctica los lenguajes de programación web.
 #### 👉 ¿Qué construí?
 ##### Se realizó un clon de la página principal de google.
 ##### Enfocado en replicar el comportamiento de la interfaz de google y su funcionamiento, y la parte visual.
